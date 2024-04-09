@@ -1,3 +1,5 @@
+### Bắt đầu học ngay tại đây!
+Bạn có thể truy cập trang chủ của [Daihocmo tại đây](https://daihocmo.github.io/) để bắt đầu học ngay!
 
 ### 🙋‍♀️ Giới thiệu đôi chút
 Chào mọi người.
