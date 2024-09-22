@@ -1,7 +1,5 @@
 ### Thông báo (21/08/2024)
-Tạm dừng cập nhật "Khu học mở" và sẽ cập nhật lớn chương trình vào 12/2024 (Hóng). 
-
-Sau khoảng gần 1 tháng cập nhật nhiều nội dung thì mình cảm thấy chất lượng của trang vẫn chưa đảm bảo vì nhiều lý do. Nhưng đặc biệt phải kể đến sự yếu kém của người phát triển trang (là mình). Nên tạm thời "Khu học mở" sẽ không còn nhận được bất kì cập nhật nào từ mình từ giờ cho đến tháng 12/2024 để mình dành toàn bộ thời gian học tập và xử lý các vấn đề trong cuộc sống cá nhân của mình.
+Tạm dừng cập nhật "Khu học mở" và sẽ cập nhật lớn chương trình vào 12/2024. 
 
 **Khu học mở** sẽ không đóng, các trang vẫn sẽ chạy để bạn có thể tận dụng nó trong việc học của mình. 
 
@@ -15,6 +13,6 @@ Chào mọi người.
 Bạn có thể truy cập [Khu học mở](https://daihocmo.github.io/) để bắt đầu học ngay!
 
 ### Cộng đồng
-Tham gia [cộng đồng Discord của Đại học mở](https://discord.gg/ZyEn4TTyEM) tại đây. 
+Tham gia [cộng đồng Discord của Khu học mở](https://discord.gg/ZyEn4TTyEM) tại đây. 
 
 
